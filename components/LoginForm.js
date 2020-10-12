@@ -1,5 +1,11 @@
 import Link from 'next/link'
 
+/**
+ * TODO:
+ * 
+ * Show/hide password
+ */
+
 function LoginForm() {
     return (
         <div className="mt-6">
